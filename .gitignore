@@ -47,3 +47,6 @@ fb_client_secrets.json
 # Python #
 *.pyc
 __pycache__
+
+#Virtual environment #
+/my_project
